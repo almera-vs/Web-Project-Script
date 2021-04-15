@@ -1,6 +1,9 @@
 # Web Project Script
 A batch script that automatically creates all crucial web files to speed up your work.
 
+## Download
+<a href="https://github.com/Rademenes16/Web-Project-Script/releases/download/1.0/web.bat">v1.0</a>
+
 ## How does it work?
 It's really simple. The script creates a folder filled with 3 files and assets subfolder. The files are: index.html, styles.css, main.js. Project folder is generated at the same location as the batch script.
 
