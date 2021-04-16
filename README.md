@@ -2,7 +2,7 @@
 A batch script that automatically creates all crucial web files to speed up your work.
 
 ## Download
-<a href="https://github.com/Rademenes16/Web-Project-Script/releases/download/2.0/Web.Project.Script.zip">2.0</a>
+<a href="https://github.com/Rademenes16/Web-Project-Script/releases/download/2.0/Web.Project.Script.zip">v2.0</a><br />
 <a href="https://github.com/Rademenes16/Web-Project-Script/releases/download/1.0/web.bat">v1.0</a>
 
 ## How does it work?
