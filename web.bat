@@ -2,6 +2,8 @@
 Title Create a new web project
 echo [1mDate: %DATE%[0m
 echo.
+type title.ASC
+echo.
 cd /d %~dp0
 echo What's the name of your project? [4m(DO NOT USE SPACES)[0m
 echo.
